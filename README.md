@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in VHDL: incorrect initialization of signals.  The `bug.vhdl` file contains a flawed VHDL design where a signal is initialized to an invalid value, leading to unpredictable results. The `bugSolution.vhdl` file provides a corrected version with the proper initialization.
